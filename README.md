@@ -8,7 +8,7 @@ Merhaba! Ben Ömer. Burası, C# ve Windows Forms kullanarak masaüstü uygulamal
 
 Bu depo, okulda öğrendiklerimi pekiştirmek ve boş zamanlarımda masaüstü yazılıma olan ilgimi pratiğe dökmek için geliştirdiğim küçük-orta ölçekli projelerimi içeriyor.
 
-Başlangıçta Hesap Makinesi gibi temel WinForms prensiplerini anlamaya odaklanan basit uygulamalarla yola çıktım. Amacım, zamanla bu temellerin üzerine katmanlar ekleyerek gerçek dünya problemlerini çözebilen ve daha karmaşık yapılar içeren (belki bir veritabanı bağlantısı, belki daha gelişmiş bir arayayüz) projelere geçmek.
+Başlangıçta Hesap Makinesi gibi temel WinForms prensiplerini anlamaya odaklanan basit uygulamalarla yola çıktım. Amacım, zamanla bu temellerin üzerine katmanlar ekleyerek gerçek dünya problemlerini çözebilen ve daha karmaşık yapılar içeren (belki bir veritabanı bağlantısı, belki daha gelişmiş bir arayüz) projelere geçmek.
 
 Dil: C#
 
