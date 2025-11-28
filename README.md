@@ -11,5 +11,7 @@ Bu depo, okulda öğrendiklerimi pekiştirmek ve boş zamanlarımda masaüstü y
 Başlangıçta Hesap Makinesi gibi temel WinForms prensiplerini anlamaya odaklanan basit uygulamalarla yola çıktım. Amacım, zamanla bu temellerin üzerine katmanlar ekleyerek gerçek dünya problemlerini çözebilen ve daha karmaşık yapılar içeren (belki bir veritabanı bağlantısı, belki daha gelişmiş bir arayayüz) projelere geçmek.
 
 Dil: C#
+
 Arayüz: Windows Forms
+
 Amaç: Sürekli öğrenme ve temiz kod yazma pratiği.
